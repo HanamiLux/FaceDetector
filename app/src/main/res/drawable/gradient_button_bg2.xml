@@ -1,0 +1,12 @@
+<!-- res/drawable/gradient_button_back.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <gradient
+        android:startColor="#000F73"
+        android:endColor="#1F96F8"
+        android:angle="45"
+        android:type="linear" />
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" />
+</shape>
